@@ -1,0 +1,7 @@
+.body{
+    background-image: linear-gradient(to right, #6e78ff, #61f4de );}
+form{
+    box-shadow: black 3px 5px 5px;
+    font-weight: 600;
+    opacity: 0.9;
+}
